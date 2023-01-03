@@ -1,0 +1,85 @@
+section {
+  display: flex;
+  -moz-box-pack: center;
+  justify-content: center;
+  -moz-box-align: center;
+  flex-direction: column;
+  align-items: flex-start;
+  min-height: 100vh;
+  /* height: 100vh; */
+  padding: 0px 150px;
+  padding-top: 0px;
+  margin-top: -50px;
+  /* border: 1px solid red; */
+}
+
+section h1 {
+  margin: 0px 0px 25px 4px;
+  color: var(--green);
+  font-family: var(--font-mono);
+  /* font-size: 20px; */
+  font-weight: 400;
+  color: var(--prim-col3);
+  /* border: 1px solid red; */
+}
+
+h1,
+h2 {
+  font-weight: 600;
+  color: var(--lightest-slate);
+  line-height: 1.1;
+}
+.bigger {
+  margin: 0px;
+  font-size: 70px;
+  /* font-size: clamp(40px, 8vw, 80px); */
+}
+section h3 {
+  line-height: 0.9;
+  /* border: 1px solid green; */
+  /* margin-top: 115px; */
+  color: var(--prim-col22);
+}
+
+h3.bigger {
+  margin-top: 15px;
+}
+
+section p {
+  color: var(--prim-col22);
+  margin: 20px 0px 0px;
+  max-width: 540px;
+}
+
+section h2 {
+  color: var(--prim-col2);
+  /* border: 1px solid var(--prim-col3); */
+}
+
+section .name {
+  /* display: flex;
+  align-items: center; */
+  /* border: 1px solid red; */
+}
+section .name div {
+  /* margin-top: 20px;
+  font-size: 20px; */
+}
+section .name span {
+  font-size: 80px;
+  margin-left: 10px;
+  border: 1px solid var(--prim-col3);
+  /* color: var(--prim-col22); */
+}
+
+section > .buttons {
+  /* visibility: hidden; */
+  padding-top: 80px;
+  margin-left: -25px;
+  /* margin-top: 10px; */
+  margin-bottom: -100px;
+  /* margin-left: 20px; */
+}
+section > .buttons a {
+  padding: 1.1rem 1rem;
+}

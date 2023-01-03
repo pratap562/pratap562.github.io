@@ -1,0 +1,17 @@
+.buttons a {
+  color: var(--prim-col3);
+  background-color: transparent;
+  border-radius: 5px;
+  padding: 0.7rem 1.1rem;
+  /* font-family: var(--font-mono); */
+  line-height: 1;
+  text-decoration: none;
+  cursor: pointer;
+  transition: var(--transition);
+  margin-left: 30px;
+  /* font-size: var(--fz-xs); */
+  border: 1px solid var(--prim-col3);
+}
+.buttons a:hover {
+  background-color: #343434;
+}
