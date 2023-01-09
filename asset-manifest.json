@@ -1,7 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.cafefb19.css",
-    "main.js": "/static/js/main.9ec335e4.js",
+    "main.css": "/static/css/main.23cf741d.css",
+    "main.js": "/static/js/main.215c6146.js",
+    "static/media/html5-seeklogo.com.eps": "/static/media/html5-seeklogo.com.85b4d052a92104308f65.eps",
     "static/media/project1.png": "/static/media/project1.227ffb8ec5361de5611f.png",
     "static/media/myImg.jpg": "/static/media/myImg.03589aa819df3ad9931f.jpg",
     "static/media/project2.png": "/static/media/project2.8fa5e8e3820971ffb6b5.png",
@@ -9,12 +10,24 @@
     "static/media/portfolio_logo3.png": "/static/media/portfolio_logo3.8b858bde67d05d90b8b5.png",
     "static/media/portfolio_logo4.png": "/static/media/portfolio_logo4.920984569df28f7dd09d.png",
     "static/media/portfolio_logo.png": "/static/media/portfolio_logo.074d4bb7e361deb62bf9.png",
+    "static/media/mysql.svg": "/static/media/mysql.ad67f84f5bbda3257755d95cd61b182e.svg",
+    "static/media/typescript.svg": "/static/media/typescript.40f5999c73738f152a516f64798e48c3.svg",
+    "static/media/vscode.svg": "/static/media/vscode.63a5730ac683599a67ca1cdd98c2013a.svg",
+    "static/media/react.svg": "/static/media/react.1520bd67b9711ed91ace46b169bc2491.svg",
+    "static/media/css.svg": "/static/media/css.55343ea1dfacf797604cb11644fcb264.svg",
+    "static/media/node.svg": "/static/media/node.e605cb5828b5744952b567458683f3b2.svg",
+    "static/media/mongodb.svg": "/static/media/mongodb.560fe51d0a6348e55ab48a750c9e076c.svg",
+    "static/media/express.svg": "/static/media/express.896b76a1c8577e061da2fd09d63f5c4d.svg",
     "index.html": "/index.html",
-    "main.cafefb19.css.map": "/static/css/main.cafefb19.css.map",
-    "main.9ec335e4.js.map": "/static/js/main.9ec335e4.js.map"
+    "static/media/github.svg": "/static/media/github.95ad9234e1509d5c93ffe0a9f7eb217a.svg",
+    "static/media/javascript.svg": "/static/media/javascript.865c831e9be0fc4b6b6d2ea470b3fa64.svg",
+    "static/media/git.svg": "/static/media/git.92c4d224eb144acbd0bbf46faaa9646f.svg",
+    "static/media/html5.svg": "/static/media/html5.cd99ec9385fdc1838a019ec8b3f600d0.svg",
+    "main.23cf741d.css.map": "/static/css/main.23cf741d.css.map",
+    "main.215c6146.js.map": "/static/js/main.215c6146.js.map"
   },
   "entrypoints": [
-    "static/css/main.cafefb19.css",
-    "static/js/main.9ec335e4.js"
+    "static/css/main.23cf741d.css",
+    "static/js/main.215c6146.js"
   ]
 }
