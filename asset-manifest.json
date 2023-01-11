@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.23cf741d.css",
-    "main.js": "/static/js/main.215c6146.js",
+    "main.js": "/static/js/main.bc5af466.js",
     "static/media/html5-seeklogo.com.eps": "/static/media/html5-seeklogo.com.85b4d052a92104308f65.eps",
     "static/media/project1.png": "/static/media/project1.227ffb8ec5361de5611f.png",
     "static/media/myImg.jpg": "/static/media/myImg.03589aa819df3ad9931f.jpg",
@@ -24,10 +24,10 @@
     "static/media/git.svg": "/static/media/git.92c4d224eb144acbd0bbf46faaa9646f.svg",
     "static/media/html5.svg": "/static/media/html5.cd99ec9385fdc1838a019ec8b3f600d0.svg",
     "main.23cf741d.css.map": "/static/css/main.23cf741d.css.map",
-    "main.215c6146.js.map": "/static/js/main.215c6146.js.map"
+    "main.bc5af466.js.map": "/static/js/main.bc5af466.js.map"
   },
   "entrypoints": [
     "static/css/main.23cf741d.css",
-    "static/js/main.215c6146.js"
+    "static/js/main.bc5af466.js"
   ]
 }
