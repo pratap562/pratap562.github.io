@@ -1,11 +1,12 @@
 {
   "files": {
-    "main.css": "/static/css/main.23cf741d.css",
-    "main.js": "/static/js/main.bc5af466.js",
+    "main.css": "/static/css/main.62fde2a9.css",
+    "main.js": "/static/js/main.1e7750c2.js",
     "static/media/html5-seeklogo.com.eps": "/static/media/html5-seeklogo.com.85b4d052a92104308f65.eps",
     "static/media/project1.png": "/static/media/project1.227ffb8ec5361de5611f.png",
     "static/media/myImg.jpg": "/static/media/myImg.03589aa819df3ad9931f.jpg",
     "static/media/project2.png": "/static/media/project2.8fa5e8e3820971ffb6b5.png",
+    "static/media/ham.webp": "/static/media/ham.1d2e4dfc2d8f35fb5c8a.webp",
     "static/media/portfolio_logo2.png": "/static/media/portfolio_logo2.a4dba42c9a790c1c2f40.png",
     "static/media/portfolio_logo3.png": "/static/media/portfolio_logo3.8b858bde67d05d90b8b5.png",
     "static/media/portfolio_logo4.png": "/static/media/portfolio_logo4.920984569df28f7dd09d.png",
@@ -23,11 +24,11 @@
     "static/media/javascript.svg": "/static/media/javascript.865c831e9be0fc4b6b6d2ea470b3fa64.svg",
     "static/media/git.svg": "/static/media/git.92c4d224eb144acbd0bbf46faaa9646f.svg",
     "static/media/html5.svg": "/static/media/html5.cd99ec9385fdc1838a019ec8b3f600d0.svg",
-    "main.23cf741d.css.map": "/static/css/main.23cf741d.css.map",
-    "main.bc5af466.js.map": "/static/js/main.bc5af466.js.map"
+    "main.62fde2a9.css.map": "/static/css/main.62fde2a9.css.map",
+    "main.1e7750c2.js.map": "/static/js/main.1e7750c2.js.map"
   },
   "entrypoints": [
-    "static/css/main.23cf741d.css",
-    "static/js/main.bc5af466.js"
+    "static/css/main.62fde2a9.css",
+    "static/js/main.1e7750c2.js"
   ]
 }
