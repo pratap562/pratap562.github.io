@@ -8,7 +8,7 @@
   text-decoration: none;
   cursor: pointer;
   transition: var(--transition);
-  margin-left: 30px;
+  /* margin-left: 30px; */
   /* font-size: var(--fz-xs); */
   border: 1px solid var(--prim-col3);
 }

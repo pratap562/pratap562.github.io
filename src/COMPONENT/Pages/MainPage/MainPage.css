@@ -9,7 +9,7 @@ section {
   /* height: 100vh; */
   padding: 0px 150px;
   padding-top: 0px;
-  margin-top: -50px;
+  /* margin-top: -50px; */
   /* border: 1px solid red; */
 }
 
@@ -78,8 +78,57 @@ section > .buttons {
   margin-left: -25px;
   /* margin-top: 10px; */
   margin-bottom: -100px;
-  /* margin-left: 20px; */
+  margin-left: 15px;
 }
 section > .buttons a {
   padding: 1.1rem 1rem;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 1000px) {
+  section {
+    padding: 0px 80px;
+    min-height: 90vh;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 800px) {
+  section {
+    padding: 0px 40px;
+  }
+  .bigger {
+    margin: 0px;
+    font-size: 50px;
+  }
+  section h1 {
+    font-size: 15px;
+  }
+  section .name span {
+    font-size: 50px;
+  }
+  section p {
+    font-size: 13px;
+  }
+  section > .buttons {
+    font-size: 10px;
+    padding-top: 68px;
+  }
+}
+/* @media only screen and (min-width: 0px) and (max-width: 700px) {
+} */
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+  section {
+    padding: 0px 30px;
+  }
+  .bigger {
+    font-size: 25px;
+  }
+  section h1 {
+    font-size: 15px;
+  }
+  section .name span {
+    font-size: 25px;
+  }
+  section p {
+    font-size: 12px;
+  }
 }

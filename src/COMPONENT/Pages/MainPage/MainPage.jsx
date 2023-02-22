@@ -1,9 +1,10 @@
 import './MainPage.css'
-import '../variable.css'
-import Button from '../Button/Button'
+import '../../variable.css'
+import Button from '../../Button/Button'
+
 let Main = () => {
     return (
-        <div className='main'>
+        <div className='main' id='home'>
             <section>
                 <div>
                     <h1> Hi, my name is</h1>
@@ -23,7 +24,7 @@ let Main = () => {
                     </p>
                 </div>
                 <div></div>
-                <Button text='check out my projects' link='/#project'></Button>
+                <Button text='Download Resume' anchorId="resume-link-2" btnId="resume-button-2" link='./resume.pdf' download='Pratap_Resume.pdf'></Button>
             </section>
             {/* <Button text='tikTok' ></Button> */}
             {/* <Button text='Hello' ></Button> */}

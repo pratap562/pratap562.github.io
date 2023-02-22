@@ -1,0 +1,14 @@
+.headline {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
+.headline div:first-child {
+  color: red;
+  margin-right: 15px;
+  font-size: 30px;
+}
+.headline div:last-child {
+  color: var(--prim-col3);
+  font-size: 30px;
+}

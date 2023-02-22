@@ -1,0 +1,74 @@
+.project-card {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid rgb(66, 66, 66);
+  padding: 20px;
+  padding-bottom: 30px;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+
+.project-card .project-image {
+  display: flex;
+  width: 48%;
+  /* border: 2px solid green; */
+}
+.project-card .project-image img {
+  margin: auto;
+  width: 100%;
+}
+
+.project-card > div:last-child {
+  width: 48%;
+  /* border: 2px solid blue; */
+}
+.project-card > div:last-child .project-title {
+  color: var(--prim-col2);
+  font-size: 20px;
+}
+.project-card > div:last-child .project-description,
+.project-card > div:last-child .project-tech-stack {
+  color: var(--prim-col22);
+}
+.project-card > div:last-child > div {
+  margin-top: 15px;
+}
+.project-card > div:last-child > div:last-child {
+  display: flex;
+  margin-top: 50px;
+}
+.project-github-link {
+  margin-right: 20px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 1000px) {
+}
+@media only screen and (min-width: 0px) and (max-width: 800px) {
+  .project-card {
+    flex-direction: column;
+    align-items: center;
+  }
+  .project-card .project-image {
+    width: 95%;
+  }
+  .project-card > div:last-child {
+    width: 95%;
+  }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+  .project-card .project-image {
+    width: 103%;
+  }
+  .project-card > div:last-child {
+    width: 103%;
+  }
+  .project-card > div:last-child .project-description,
+  .project-card > div:last-child .project-tech-stack {
+    font-size: 12px;
+  }
+  .project-card > div:last-child > div:last-child {
+    font-size: 10px;
+  }
+}

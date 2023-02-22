@@ -1,0 +1,68 @@
+#skills {
+  margin: 50px 150px;
+}
+#skills > div:last-child {
+  /* height: 50vh; */
+  /* padding: 50vh 49vw; */
+  margin: 50px 150px;
+  font-size: 30px;
+  color: var(--prim-col2);
+  /* border: 1px solid yellow; */
+  display: grid;
+  grid-template: repeat(4, 100px) / repeat(4, 100px);
+  justify-content: center;
+  /* align-items: center; */
+  gap: 80px 120px;
+}
+#skills > div:first-child {
+  /* margin-left: 35vw; */
+}
+
+#skills > div:last-child > div > div > div {
+  font-size: 25px;
+  /* border: 1px solid red; */
+  margin-top: -5px;
+}
+#skills > div:last-child > div > div {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+}
+#skills > div:last-child > div:hover {
+  transform: scale(1.2);
+  transition-duration: 0.5s;
+}
+#skills > div:last-child > div:first-child {
+  scale: 0.858;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 1000px) {
+  #skills {
+    margin: 80px;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 800px) {
+  #skills {
+    margin: 40px;
+  }
+  #skills > div:last-child {
+    grid-template: repeat(5, 100px) / repeat(3, 100px);
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 700px) {
+  #skills > div:last-child {
+    /* grid-template: repeat(5, 100px) / repeat(3, 100px); */
+    gap: 50px 80px;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+  #skills {
+    margin: 0px;
+  }
+  #skills > div:last-child {
+    gap: 50px 20px;
+  }
+  /* #skills > div:last-child {
+    grid-template: repeat(7, 100px) / repeat(2, 100px);
+  } */
+}

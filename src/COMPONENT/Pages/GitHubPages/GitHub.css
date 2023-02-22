@@ -1,0 +1,65 @@
+.github {
+  margin: 50px 150px;
+}
+.github > div:first-child > h1 {
+  color: var(--prim-col3);
+}
+.github > div:last-child {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 100px;
+  /* border: 1px solid red; */
+}
+.github > div:first-child {
+  margin-bottom: 50px;
+}
+.github > div:last-child > div {
+  /* width: 50%; */
+  height: 100%;
+  /* border: 1px solid blue; */
+}
+.github > div:last-child > div:first-child {
+  width: 45%;
+}
+.github > div:last-child > div:last-child {
+  display: flex;
+  flex-direction: column;
+  width: 45%;
+}
+.github > div:last-child > div:first-child > div {
+  height: 45%;
+}
+.github > div:last-child > div > div > img {
+  width: 100%;
+  height: 100%;
+}
+.github > div:first-child {
+  display: flex;
+  justify-content: center;
+  color: var(--prim-col2);
+}
+
+@media only screen and (min-width: 0px) and (max-width: 1000px) {
+  .github {
+    margin: 50px 80px;
+  }
+}
+@media only screen and (min-width: 0px) and (max-width: 800px) {
+  .github {
+    margin: 50px 40px;
+  }
+}
+
+@media only screen and (min-width: 0px) and (max-width: 500px) {
+  .github > div:last-child {
+    flex-direction: column;
+  }
+  .github > div:last-child > div:first-child {
+    width: 90%;
+  }
+  .github > div:last-child > div:last-child {
+    width: 90%;
+  }
+}
