@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.56282cb6.css",
-    "main.js": "/static/js/main.d41d5b18.js",
+    "main.css": "/static/css/main.a7305ea4.css",
+    "main.js": "/static/js/main.0e8c3c9d.js",
     "static/media/html5-seeklogo.com.eps": "/static/media/html5-seeklogo.com.85b4d052a92104308f65.eps",
     "static/media/project1.png": "/static/media/project1.227ffb8ec5361de5611f.png",
     "static/media/myImg.jpg": "/static/media/myImg.03589aa819df3ad9931f.jpg",
@@ -13,6 +13,7 @@
     "static/media/portfolio_logo.png": "/static/media/portfolio_logo.074d4bb7e361deb62bf9.png",
     "static/media/mysql.svg": "/static/media/mysql.ad67f84f5bbda3257755d95cd61b182e.svg",
     "static/media/typescript.svg": "/static/media/typescript.40f5999c73738f152a516f64798e48c3.svg",
+    "static/media/mail.svg": "/static/media/mail.c4e2250b999fbdc00ce8.svg",
     "static/media/vscode.svg": "/static/media/vscode.63a5730ac683599a67ca1cdd98c2013a.svg",
     "static/media/react.svg": "/static/media/react.1520bd67b9711ed91ace46b169bc2491.svg",
     "static/media/css.svg": "/static/media/css.55343ea1dfacf797604cb11644fcb264.svg",
@@ -22,13 +23,17 @@
     "index.html": "/index.html",
     "static/media/github.svg": "/static/media/github.95ad9234e1509d5c93ffe0a9f7eb217a.svg",
     "static/media/javascript.svg": "/static/media/javascript.865c831e9be0fc4b6b6d2ea470b3fa64.svg",
+    "static/media/phone.svg": "/static/media/phone.3038fb62ad608614692623201d683045.svg",
     "static/media/git.svg": "/static/media/git.92c4d224eb144acbd0bbf46faaa9646f.svg",
+    "static/media/email2.svg": "/static/media/email2.1a3f04a39262e106739e95a52c561bf6.svg",
+    "static/media/linkdin.svg": "/static/media/linkdin.27a3f479ca1bbb0ceef19e395081fb94.svg",
+    "static/media/email.svg": "/static/media/email.f8cea2ca12838672d62542c73b969404.svg",
     "static/media/html5.svg": "/static/media/html5.cd99ec9385fdc1838a019ec8b3f600d0.svg",
-    "main.56282cb6.css.map": "/static/css/main.56282cb6.css.map",
-    "main.d41d5b18.js.map": "/static/js/main.d41d5b18.js.map"
+    "main.a7305ea4.css.map": "/static/css/main.a7305ea4.css.map",
+    "main.0e8c3c9d.js.map": "/static/js/main.0e8c3c9d.js.map"
   },
   "entrypoints": [
-    "static/css/main.56282cb6.css",
-    "static/js/main.d41d5b18.js"
+    "static/css/main.a7305ea4.css",
+    "static/js/main.0e8c3c9d.js"
   ]
 }
